@@ -1,0 +1,10 @@
+azure-search-documents==11.6.0b7
+azure-ai-documentintelligence==1.0.0b4
+azure-identity==1.20.0
+python-dotenv==1.0.1
+azure-storage-blob==12.23.1
+pytz
+
+# langchain-community==0.3.9
+langchain-text-splitters==0.3.2
+tiktoken
